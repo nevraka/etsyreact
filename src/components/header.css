@@ -1,0 +1,17 @@
+.main-header {
+  position: relative;
+  display: flex;
+  min-width: 100px;
+  justify-content: space-between;
+}
+.image {
+  height: 80px;
+}
+.search {
+  max-width: 750px;
+  width: 100%;
+  border-radius: 50px;
+}
+.icon {
+  display: flex;
+}
